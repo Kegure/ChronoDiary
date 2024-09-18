@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/drawable-nodpi_rectangle_6.png.flat",
+        "source": "com.example.chrono_diary.app-main-55:/drawable-nodpi/rectangle_6.png"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.chrono_diary.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/drawable_rectangle_4.png.flat",
+        "source": "com.example.chrono_diary.app-main-55:/drawable/rectangle_4.png"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/xml_backup_rules.xml.flat",
+        "source": "com.example.chrono_diary.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.chrono_diary.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/drawable-nodpi_icon.png.flat",
+        "source": "com.example.chrono_diary.app-main-55:/drawable-nodpi/icon.png"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/drawable-nodpi_text_link.png.flat",
+        "source": "com.example.chrono_diary.app-main-55:/drawable-nodpi/text_link.png"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/drawable-nodpi_button.png.flat",
+        "source": "com.example.chrono_diary.app-main-55:/drawable-nodpi/button.png"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/drawable-nodpi_chronodiary.png.flat",
+        "source": "com.example.chrono_diary.app-main-55:/drawable-nodpi/chronodiary.png"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/drawable-nodpi_n_o_tem_uma_conta_inscreva_se_no_chronodiary_.png.flat",
+        "source": "com.example.chrono_diary.app-main-55:/drawable-nodpi/n_o_tem_uma_conta_inscreva_se_no_chronodiary_.png"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chrono_diary.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chrono_diary.app-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.chrono_diary.app-main-55:/xml/data_extraction_rules.xml"
+    }
+]
