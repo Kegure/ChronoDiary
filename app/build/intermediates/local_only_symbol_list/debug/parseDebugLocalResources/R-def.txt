@@ -12,11 +12,8 @@ drawable chronodiary
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icon
-<<<<<<< HEAD
-=======
 drawable logo_chrono
 drawable logo_chrono_two
->>>>>>> origin
 drawable n_o_tem_uma_conta_inscreva_se_no_chronodiary_
 drawable rectangle_4
 drawable rectangle_6

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-#Tue Sep 17 14:17:47 EDT 2024
+#Wed Sep 18 11:05:03 EDT 2024
 base.0=/home/kegure/ChronoDiary/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/kegure/ChronoDiary/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/home/kegure/ChronoDiary/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
@@ -12,21 +11,6 @@ path.1=0/classes.dex
 path.2=1/classes.dex
 path.3=11/classes.dex
 path.4=15/classes.dex
-=======
-#Tue Sep 17 22:00:10 BRT 2024
-base.0=C\:\\ChronoDiary\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\ChronoDiary\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\ChronoDiary\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.3=C\:\\ChronoDiary\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.4=C\:\\ChronoDiary\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.5=C\:\\ChronoDiary\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.6=C\:\\ChronoDiary\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-path.0=classes.dex
-path.1=0/classes.dex
-path.2=11/classes.dex
-path.3=15/classes.dex
-path.4=1/classes.dex
->>>>>>> origin
 path.5=4/classes.dex
 path.6=classes2.dex
 renamed.0=classes.dex

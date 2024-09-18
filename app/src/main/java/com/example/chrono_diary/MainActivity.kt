@@ -27,7 +27,7 @@ class MainActivity : ComponentActivity() {
                     val navController = rememberNavController()
                     NavHost(navController,"CadScreen"){
                         composable("CadScreen") {
-                            CadScreen(
+                            authScreen(
                                 onSignInClick = { user ->
                                     navController.navigate("UserScreen/${user}")
                                 },
@@ -35,18 +35,6 @@ class MainActivity : ComponentActivity() {
                                     navController.navigate("SignUpScreen")
                                 }
                             )
-                        }
-                        /*composable("SignUpScreen"){
-                            SignUpScreen(
-                                onSignUpClick = {
-                                    navController.popBackStack()
-                                }
-                            )
-                        }*/
-                        composable("UserScreen/{user}"){ entry ->
-                            entry.arguments?.getString("user")?.let { //user ->
-                                //UserScreen (onSignUpClick(user = user))
-                            }
                         }
                     }
                 }
