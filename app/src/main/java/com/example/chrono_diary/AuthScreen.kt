@@ -72,7 +72,9 @@ fun authScreen(onSignInClick: (String) -> Unit, onSignUpClick: () -> Unit, navCo
                         colors = TextFieldDefaults.outlinedTextFieldColors(
                             containerColor = Color.White,
                             unfocusedBorderColor = Color(0xFF6899EB),
-                            focusedBorderColor = Color(0xFF6899EB)
+                            focusedBorderColor = Color(0xFF6899EB),
+                            unfocusedLabelColor = Color(0xFF4B7195),
+                            focusedLabelColor = Color(0xFF6899EB)
                         )
                     )
 
@@ -90,7 +92,9 @@ fun authScreen(onSignInClick: (String) -> Unit, onSignUpClick: () -> Unit, navCo
                         colors = TextFieldDefaults.outlinedTextFieldColors(
                             containerColor = Color.White,
                             unfocusedBorderColor = Color(0xFF6899EB),
-                            focusedBorderColor = Color(0xFF6899EB)
+                            focusedBorderColor = Color(0xFF6899EB),
+                            unfocusedLabelColor = Color(0xFF4B7195),
+                            focusedLabelColor = Color(0xFF6899EB)
                         )
                     )
                     Spacer(modifier = Modifier.height(8.dp))
