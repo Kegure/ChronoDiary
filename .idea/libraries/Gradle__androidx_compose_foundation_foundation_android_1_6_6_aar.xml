@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.foundation:foundation-android:1.6.6@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/8.10/transforms/64739177b32bb8c28b23387f21f46285/transformed/foundation-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/8.10/transforms/64739177b32bb8c28b23387f21f46285/transformed/foundation-release/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/8.10/transforms/64739177b32bb8c28b23387f21f46285/transformed/foundation-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

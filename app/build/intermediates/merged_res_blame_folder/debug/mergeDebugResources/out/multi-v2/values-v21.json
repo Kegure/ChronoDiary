@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "com.example.chrono_diary.app-mergeDebugResources-51:/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/home/kegure/.gradle/caches/8.10/transforms/b9ea8e59c9a8bf88d6ced2770fa03c48/transformed/core-1.13.1/res/values-v21/values-v21.xml",
+=======
+            "outputFile": "com.example.chrono_diary.app-mergeDebugResources-2:/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\samue\\.gradle\\caches\\8.10\\transforms\\b9a2b79bc89ce5857cd50633b465b13e\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> origin
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +30,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "/home/kegure/.gradle/caches/8.10/transforms/c6bab4108390f5e88da19c28fdba1f36/transformed/core-1.5.0/res/values-v21/values.xml",
+=======
+                    "source": "C:\\Users\\samue\\.gradle\\caches\\8.10\\transforms\\f5b1af7f76a996996b23c2445766fc05\\transformed\\core-1.5.0\\res\\values-v21\\values.xml",
+>>>>>>> origin
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
