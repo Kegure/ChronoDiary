@@ -30,7 +30,7 @@ import java.util.*
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun CadScreen(onSignInClick: (String) -> Unit, onSignUpClick: () -> Unit) {
+fun cadScreen(onSignInClick: (String) -> Unit, onSignUpClick: () -> Unit) {
     var completename by remember { mutableStateOf("") }
     var username by remember{ mutableStateOf("") }
     var email by remember { mutableStateOf("") }

@@ -13,11 +13,12 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
+import androidx.navigation.NavController
 
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun authScreen(onSignInClick: (String) -> Unit, onSignUpClick: () -> Unit) {
+fun authScreen(onSignInClick: (String) -> Unit, onSignUpClick: () -> Unit, navController: NavController) {
             var username by remember{ mutableStateOf("") }
             var password by remember{ mutableStateOf("") }
 
@@ -125,7 +126,9 @@ fun authScreen(onSignInClick: (String) -> Unit, onSignUpClick: () -> Unit) {
                 modifier = Modifier
                     .fillMaxWidth()
                     .height(40.dp)
-                    .clickable {}
+                    .clickable {
+                        navController.navigate("cadScreen")
+                    }
             )
         }
 }

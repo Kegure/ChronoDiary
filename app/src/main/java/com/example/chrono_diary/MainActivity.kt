@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
+import androidx.navigation.NavController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
@@ -25,15 +26,22 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     val navController = rememberNavController()
-                    NavHost(navController,"CadScreen"){
-                        composable("CadScreen") {
+                    NavHost(navController,"AuthScreen"){
+                        composable("AuthScreen") {
                             authScreen(
                                 onSignInClick = { user ->
                                     navController.navigate("UserScreen/${user}")
                                 },
                                 onSignUpClick = {
                                     navController.navigate("SignUpScreen")
-                                }
+                                },
+                                navController = navController
+                            )
+                        }
+                        composable("CadScreen") {
+                            cadScreen(
+                                onSignInClick = { },
+                                onSignUpClick = { }
                             )
                         }
                     }
