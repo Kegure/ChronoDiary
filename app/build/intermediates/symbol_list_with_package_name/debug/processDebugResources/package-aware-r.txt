@@ -86,8 +86,8 @@ drawable ic_call_decline_low
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icon
-drawable logo_chrono
-drawable logo_chrono_two
+drawable logo_chrono3
+drawable logo_chrono4
 drawable n_o_tem_uma_conta_inscreva_se_no_chronodiary_
 drawable notification_action_background
 drawable notification_bg

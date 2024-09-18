@@ -29,20 +29,13 @@ fun authScreen(onSignInClick: (String) -> Unit, onSignUpClick: () -> Unit, navCo
                 .fillMaxSize()
                 .padding(16.dp)
         ) {
+
             Image(
-                painter = painterResource(R.drawable.icon),
-                contentDescription = "App Logo",
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .height(180.dp)
-                    .padding(bottom = 32.dp)
-            )
-            Image(
-                painter = painterResource(R.drawable.chronodiary),
+                painter = painterResource(R.drawable.logo_chrono4),
                 contentDescription = null,
                 modifier = Modifier
                     .fillMaxWidth()
-                    .height(50.dp)
+                    .height(190.dp)
                     .padding(bottom = 32.dp)
             )
             Card(
